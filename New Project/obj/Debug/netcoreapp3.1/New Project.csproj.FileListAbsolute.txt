@@ -1,0 +1,26 @@
+C:\Users\danielle\source\repos\New Project\New Project\bin\Debug\netcoreapp3.1\New Project.exe
+C:\Users\danielle\source\repos\New Project\New Project\bin\Debug\netcoreapp3.1\New Project.deps.json
+C:\Users\danielle\source\repos\New Project\New Project\bin\Debug\netcoreapp3.1\New Project.runtimeconfig.json
+C:\Users\danielle\source\repos\New Project\New Project\bin\Debug\netcoreapp3.1\New Project.runtimeconfig.dev.json
+C:\Users\danielle\source\repos\New Project\New Project\bin\Debug\netcoreapp3.1\New Project.dll
+C:\Users\danielle\source\repos\New Project\New Project\bin\Debug\netcoreapp3.1\New Project.pdb
+C:\Users\danielle\source\repos\New Project\New Project\obj\Debug\netcoreapp3.1\New Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danielle\source\repos\New Project\New Project\obj\Debug\netcoreapp3.1\New Project.AssemblyInfoInputs.cache
+C:\Users\danielle\source\repos\New Project\New Project\obj\Debug\netcoreapp3.1\New Project.AssemblyInfo.cs
+C:\Users\danielle\source\repos\New Project\New Project\obj\Debug\netcoreapp3.1\New Project.csproj.CoreCompileInputs.cache
+C:\Users\danielle\source\repos\New Project\New Project\obj\Debug\netcoreapp3.1\New Project.dll
+C:\Users\danielle\source\repos\New Project\New Project\obj\Debug\netcoreapp3.1\New Project.pdb
+C:\Users\danielle\source\repos\New Project\New Project\obj\Debug\netcoreapp3.1\New Project.genruntimeconfig.cache
+D:\Dani\estudos\github\New-Project\New Project\bin\Debug\netcoreapp3.1\New Project.exe
+D:\Dani\estudos\github\New-Project\New Project\bin\Debug\netcoreapp3.1\New Project.deps.json
+D:\Dani\estudos\github\New-Project\New Project\bin\Debug\netcoreapp3.1\New Project.runtimeconfig.json
+D:\Dani\estudos\github\New-Project\New Project\bin\Debug\netcoreapp3.1\New Project.runtimeconfig.dev.json
+D:\Dani\estudos\github\New-Project\New Project\bin\Debug\netcoreapp3.1\New Project.dll
+D:\Dani\estudos\github\New-Project\New Project\bin\Debug\netcoreapp3.1\New Project.pdb
+D:\Dani\estudos\github\New-Project\New Project\obj\Debug\netcoreapp3.1\New Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dani\estudos\github\New-Project\New Project\obj\Debug\netcoreapp3.1\New Project.AssemblyInfoInputs.cache
+D:\Dani\estudos\github\New-Project\New Project\obj\Debug\netcoreapp3.1\New Project.AssemblyInfo.cs
+D:\Dani\estudos\github\New-Project\New Project\obj\Debug\netcoreapp3.1\New Project.csproj.CoreCompileInputs.cache
+D:\Dani\estudos\github\New-Project\New Project\obj\Debug\netcoreapp3.1\New Project.dll
+D:\Dani\estudos\github\New-Project\New Project\obj\Debug\netcoreapp3.1\New Project.pdb
+D:\Dani\estudos\github\New-Project\New Project\obj\Debug\netcoreapp3.1\New Project.genruntimeconfig.cache
